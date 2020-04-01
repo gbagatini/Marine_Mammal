@@ -26,22 +26,6 @@ To reach our sample we employed three methods:
 Our total sample size was 171 participants and we used 139 responses for our analysis. 32 responses were excluded due to the respondent skipping too many questions. The sample is slightly smaller than our initial target of 200 due to COVID-19 restrictions. 
 
 
-## Tools and Packages that I used for this project:
-
-
-#### Text processing:
-* TFIDF
-
-#### Modeling/Machine Learning
-
-* Scikit-learn
-* Pandas
-
-#### Data visualization:
-* Matplotlib
-* Seaborn
-* Dash/Plotly
-
 
 
 
