@@ -23,7 +23,7 @@ To reach our sample we employed three methods:
 1) An online survey link was sent out through MMR’s volunteer network newsletter requesting participation. 
 2) The researchers conducted intercept surveys targeting guests exiting the aquarium and locals and tourists at Stanley Park and the Seawall. People who agreed to participate in the survey submitted their responses on a tablet.
 3) An online survey link was distributed through the researchers’ personal and professional networks.
-Our total sample size was 171 participants and we used 139 responses for our analysis. 32 responses were excluded due to the respondent skipping too many questions. The sample is slightly smaller than our initial target of 200 due to COVID-19 restrictions. 
+Our total sample size was 171 participants and we used 139 responses for our analysis. 32 responses were excluded due to the respondent skipping too many questions.
 
 
 
